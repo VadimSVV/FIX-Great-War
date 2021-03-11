@@ -1,3 +1,3 @@
-The Great War FIX(The project is closed)
+The Great War FIX(проект закрыт)
 
-Description: The Great War with additional descriptions, fixes, localization fixes and other improvements.
+Описание: Великая война с дополнительным описанием, исправлением локализации и другими улучшениями. 
